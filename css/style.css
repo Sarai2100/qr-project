@@ -1,0 +1,36 @@
+/* * {
+    border: 1px solid red;
+    margin: 0 auto;
+}
+
+.container {
+    width: 100%;
+    min-width: 100vh;
+    display: flex;
+    justify-self: center
+}
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 30%;
+    height: 400px;
+    margin: auto;
+}
+
+.text-card {
+    width: 200px;
+    margin: auto 0;
+    background-color: aqua;
+    justify-content: center;
+} */
+
+* {
+    border: 1px solid  purple;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    max-width: 368px;
+    margin: 0 auto;
+}
